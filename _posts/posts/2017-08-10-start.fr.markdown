@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Le début de l'aventure"
+date:   2017-08-09 12:02:23 +0200
+categories: french_posts french_news
+---
+
+1. TOC
+{:toc}
+
+### Kickstart my heart
+
+Mai 2017, Maxime et moi-même n'étions pas sereins vis-à-vis de nos perspectives d'avenir.
+De mon côté, [la thèse n'était pas ce que j'attendais](http://www.phdcomics.com/comics/archive/phd091606s.gif),
+et Max allait prendre sur lui pour finir un stage pourri, pour ensuite tenter
+d'entrer en alternance dans un domaine qui, sommes toutes, ne l'intéressait que peu.
+
+Depuis nos débuts à la fac, Max et moi avions envie de faire du jeu vidéo. Tous
+les deux, si possible. A l'époque, notre cursus en sociologie ne rendait pas
+vraiment le truc possible. Donc on a mis la chose de côté et avons poursuivi des cursus
+universitaires chaotiques... jusqu'à ce mois de Mai 2017.
+
+> "Putain Max, j'en ai marre. L'année prochaine je monte un studio de jeux vidéos.
+> Maintenant je peux. 
+> On le fait ensemble ?" 
+
+C'est, en substance,
+le coup de fil qu'a reçu Max un soir. Je crois que j'étais en arrêt de travail
+pour harcèlement moral et Max devait se
+battre dans son stage pour avoir 3 trucs à coder dans sa journée. Il n'a
+pas fallu longtemps pour qu'il se décide et on a mis le plan en branle.
+
+### Shake your foundations
+
+Le premier truc qu'on a fait, ça a été d'aller voir le [Pépite CREER](http://www.creer.lunam.fr/), à Nantes.
+J'avais rencontré leurs homologues à Grenoble (Pépite Ozer) lors des masteriales 2015 et
+l'expérience m'avait convaincue que, si j'en avait envie, je pourrais monter
+une entreprise. Nhan, l'animateur du pôle Nantais, nous a très bien reçu et nous a
+expliqué ce que le Pépite pourrait faire pour nous. Max en est ressorti convaincu.
+La même semaine, on a été voir plusieurs entrepreneurs, que Max avait démarchés,
+pour savoir à quoi ressemblerait l'aventure. Parmis eux, Antonin, qui crée [Stormland](https://stormland.fr/).
+
+
+![Stormland](https://stormland.fr/wp-content/uploads/2015/06/stormland_screen_1-1024x522.jpg)
+Screenshot du jeu stormland
+{: .legend}
+
+
+Plusieurs choses en sont ressorties :
+1. on avait fait le bon choix en
+décidant de se faire accompagner par le Pépite CRER et en allant taper à
+la porte d'autres entrepreneurs qui avaient vu tout ça avant nous,
+2. on avait encore plein d'écueils à éviter lorsqu'on commencerait à
+créer nos jeux (on a commencé, et même prévenus, c'est pas facile...),
+3. il allait falloir qu'on étoffe notre réseau,
+4. notre idée de jeux (les micro-RPG) plaisait beaucoup.
+
+### Crucial Velocity
+
+Pendant notre entrevue avec le Pépite CREER, Nhan nous avait invité à participer
+à un concours, qui allait commencer quelques jours plus tard et courir sur
+tout le mois de Juin. Pour participer, il fallait une vidéo et des slides.
+Nous avions deux jours. Voici ce que ça a donné.
+
+[![Dual Wielding, PEPITE Challenge 2017](http://img.youtube.com/vi/Ag11u6Y_WL4/0.jpg)](https://www.youtube.com/watch?v=Ag11u6Y_WL4 "PEPITE Challenge 2017")
+
+
+Grace à cette vidéo et (encore merci) à toutes les personnes qui ont voté
+pour nous durant la seconde phase du concours (il aura fallu mettre tout
+notre réseau en branle...), [nous sommes arrivés à la fin et avons décroché la
+troisième place](https://u-bretagneloire.fr/dossiers/pepitechallenge/gala). 
+Au vu des projets concurrents au notre, nous en avons été plutôt fier.
+Notre projet de deux mois à peine ne palissait pas devant des projets bien plus aboutis.
+Grandi par l'expérience (il aura tout de même fallu qu'on mette les doigts dans
+le marketing, ce qui aura eu le mérite de commencer à nous préparer à ce que
+sera le montage du projet), nous sommes partis en vacances en attendant la rentrée avec impatience.
+
+### Get your gun
+
+Pendant ce temps, nous avons bien entendu fait quelques jeux vidéos. L'un d'entre eux,
+un party game basé sur une idée qu'avait eu Max à une Game Jam en 2016, sera probablement disponible fin 2017.
+Nous ne savons pas encore de quelle manière nous allons le distribuer, mais
+il nous permettra de montrer que nous sommes capables de sortir quelque chose.
+D'ici là, nous aurons avancé sur notre idée de micro-RPG et serons capable d'en dire un peu plus.
+
+Maël
+{: .bold}

@@ -1,0 +1,72 @@
+---
+---
+
+@import "minima";
+
+.legend {
+  font-style: italic;
+  font-size: 0.8em;
+}
+.bold {
+  font-weight: bold;
+}
+
+.post-content {
+  text-align: justify;
+}
+
+.logo {
+  //background-image: url("/assets/images/logo.png");
+  //background-repeat: no-repeat;
+  //background-position: center; 
+  //height: 400px;
+  //width: 100%;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.about {
+  margin-top: $base-line-height * $base-font-size;
+}
+
+.site-lang-choice {
+     outline: none;
+     background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+     height: $base-line-height;
+     width: 8em;
+     margin: $base-line-height * $base-font-size * 0.75;
+     border: 1px solid black;
+
+
+     webkit-appearance: none;
+     /*webkit browsers */
+     -moz-appearance: none;
+     /*Firefox */
+     appearance: none;
+     /* modern browsers */
+     border-radius: 0;
+}
+
+.site-lang-choice select {
+     background: transparent;
+     font-size: 14px;
+     padding: 5px; /* If you add too much padding here, the options won't show in IE */
+
+}
+
+.site-lang-choice.slate {
+     background: url(http://i62.tinypic.com/2e3ybe1.jpg) no-repeat right center;
+}
+
+.site-lang-choice.slate select {
+     border: 1px solid #ccc;
+     font-size: 16px;
+     height: 34px;
+     width: 268px;
+
+}
+
+/* -------------------- Colors: Background */
+.slate   { background-color: #ddd;  }
+
+/* -------------------- Colors: Text */
+.slate select   { color: #000;  }
