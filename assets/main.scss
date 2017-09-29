@@ -65,6 +65,30 @@
 
 }
 
+.mailing-list-signup {
+     margin-bottom: 1.5em;
+
+     .button {
+          margin-top: 0.5em;
+	  background-color: #333;
+	  border: none;
+	  color: white;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  padding-top: 0.5em;
+	  padding-bottom: 0.5em;
+	  padding-left: 1.2em;
+	  padding-right: 1.2em;
+	  border-radius: 3px;
+     }
+
+     .mc-subscribe-text {
+	  color: #333;
+	  font-weight: bold;
+     }
+}
+
 /* -------------------- Colors: Background */
 .slate   { background-color: #ddd;  }
 

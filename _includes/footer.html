@@ -6,17 +6,32 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+
+				<!-- Begin MailChimp Signup Form -->
+				<div class="mailing-list-signup">
+					<form action="//dual-wielding.us16.list-manage.com/subscribe/post?u=168fc6414e7059af9abc589f5&amp;id=4f4e35a377" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+							<div class="mc-subscribe-text">
+								<label for="mce-EMAIL">{{ site.data.misc.subscribe_text }}</label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+							<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+							<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_168fc6414e7059af9abc589f5_4f4e35a377" tabindex="-1" value=""></div>
+							<div class="clear"><input type="submit" value="{{ site.data.misc.subscribe_button_text }}" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+							</div>
+					</form>
+				</div>
+				<!--End mc_embed_signup-->
+
         <ul class="contact-list">
+					{% if site.email %}
+						<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					{% endif %}
           <li>
             {% if site.author %}
               {{ site.author | escape }}
             {% else %}
               {{ site.title | escape }}
             {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+					</li>
         </ul>
       </div>
 
