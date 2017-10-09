@@ -24,6 +24,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dual-wielding.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Gloumbalah
 github_username: Erawpalassalg
+facebook_username: dualwielding
+
+game_download_platform: https://itch.io/profile/dualwielding
 
 # Build settings
 markdown: kramdown
