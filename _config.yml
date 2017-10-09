@@ -22,8 +22,8 @@ email: contact@dual-wielding.com
   #Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dual-wielding.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+twitter_username: @Gloumbalah
+github_username: Erawpalassalg
 
 # Build settings
 markdown: kramdown
