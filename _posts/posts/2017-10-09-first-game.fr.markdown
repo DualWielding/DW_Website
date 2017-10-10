@@ -15,7 +15,7 @@ Mais avant, voici le contexte.
 
 ### 1GAM
 
-1 Game A Month (1 jeu par mois) est un challenge qui consiste à réaliser un jeu
+[1 Game A Month](http://www.onegameamonth.com/DWErawpalassalg) (1 jeu par mois) est un challenge qui consiste à réaliser un jeu
 vidéo par mois durant un an. Il y a quelques semaines, on a décidé, avec Max,
 de participer au 1GAM.
 
@@ -76,7 +76,7 @@ Et puis aussi parce qu'on a pas de graphiste.
 
 Au début de la Jam, nous avions trois idées. 
 
-La première : un simulateur de rupture amoureuse. Le joueur incarnrait une nana qui devrait
+La première : un simulateur de rupture amoureuse. Le joueur incarnerait une nana qui devrait
 quitter son copain appelé Marc ("to leave" en anglais veut aussi dire quitter). On aurait pu
 avoir des dizaines de fin possible dans un RPG pas loin d'un [Confess my Love](http://store.steampowered.com/app/637850/Confess_My_Love/).
 
@@ -102,3 +102,5 @@ Nous posterons plus sur ce que nous avons appris en faisant ce jeu, mais
 en attendant, n'hésitez pas à aller l'essayer et à nous faire vos retours !
 
 Et en prime, notre jeu favori de cette première édition de l'OpenJam : [Open Source Block Game](https://captainlex.itch.io/open-source-block-game)
+
+**Erawpalassalg**
