@@ -14,11 +14,11 @@ But first, some context.
 
 ### 1GAM
 
-1 Game A Month is a challenge game developpers might decide to take up.
+1 Game A Month is a challenge game developers might decide to take up.
 Once registered on the website, you have to create one game per month for a year.
 A few weeks ago, we decided at Dual Wielding that we would take up on the 1GAM Challenge.
 
-Why ? Since we already are in the process of creating our own indy game studio,
+Why ? Since we already are in the process of creating our own indie game studio,
 and therefore trying to create our first "big" game (we want to make micro-RPGs, so maybe not _that_ big...)
 it might seem a bit ballsy to take up on the 1GAM.
 Ballsy we are. But we also got good reasons. Here are the two main.
@@ -61,18 +61,18 @@ Since we are planning to use [Godot](https://godotengine.org/) as our main game 
 the open-source limitation wasn't really an issue.
 We also decided to pick all our arts on the internet. 
 Creating a 100% open-source game we could be proud of.
-Also, this was the cheapest option and we have no graphist and no sound-designer.
+Also, this was the cheapest option and we have no graphic-designer and no sound-designer.
 
 ### Stellar Wrath
 
 We started the Jam with a brain-storm. We had 3 ideas.
 
-First: a break-up simulator. The player would have been a girl trying to break-up with her boyfried named Mark.
+First: a break-up simulator. The player would have been a girl trying to break-up with her boyfriend named Mark.
 The idea was to have a dozen possible endings. We would have ended up creating
 some sort of [Confess my Love](http://store.steampowered.com/app/637850/Confess_My_Love/) clone.
 
 
-Second: a phylosophy teacher simulator. The idea was to gather quotes from
+Second: a philosophy teacher simulator. The idea was to gather quotes from
 peoples such as Kant, Nietzsche, Jaden Smith and Paris Hilton, mix them and
 then make the player discriminate them under time pressure.
 We didn't do it, but I bet it would have been pretty hard to find all these quotes.
