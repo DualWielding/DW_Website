@@ -89,7 +89,7 @@ I had some experience with the Godot physics engine and this option sounded fun,
 
 72 hours later, we submitted [Stellar Wrath](https://dualwielding.itch.io/stellar-wrath), then we took some sleep.
 We'll follow up with blog posts about what we learned while making this game.
-In the meantime, feel free to try it and give us feedback on itch.io, tweeter or by mail !
+In the meantime, feel free to try it and give us feedback on itch.io, twitter or by mail !
 
 Bonus: our favorite game of this first OpenJam edition. [Open Source Block Game](https://captainlex.itch.io/open-source-block-game).
 
