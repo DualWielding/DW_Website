@@ -83,5 +83,4 @@ Nous ne savons pas encore de quelle manière nous allons le distribuer, mais
 il nous permettra de montrer que nous sommes capables de sortir quelque chose.
 D'ici là, nous aurons avancé sur notre idée de micro-RPG et serons capable d'en dire un peu plus.
 
-Maël
-{: .bold}
+**Erawpalassalg**
