@@ -18,10 +18,10 @@ Le jeu vous propose d'incarner un astéroïde anonyme vouant une haine sans born
 
 ### [Despair](https://dualwielding.itch.io/despair)
 
-![Menu de Despair](https://img.itch.zone/aW1hZ2UvMTg3ODIxLzg3ODQzNS5wbmc=/347x500/32Lzw4.png)
+![Menu de Despair](https://img.itch.zone/aW1hZ2UvMTg3ODIxLzg3ODQzNS5wbmc=/original/phRS4p.png)
 
 Jeu narratif fait durant la Game Jam des Utopiales, avec le thème "procrastination". Tout est dans les textes, plus que dans le gameplay.
 
 Nous vous proposons d'endosser le rôle d'un capitaine de vaisseau chargé d'ammener ses passagers à bon port. Mais ce genre de voyage ne se passe jamais sans accroc...
 
-![Capture d'écran](https://img.itch.zone/aW1hZ2UvMTg3ODIxLzg3ODQ0MS5wbmc=/347x500/70IWQi.png)
+![Capture d'écran](https://img.itch.zone/aW1hZ2UvMTg3ODIxLzg3ODQ0MS5wbmc=/original/WwPT8x.png)
