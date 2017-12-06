@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Téléchargements
-permalink: /downloads/
+title: Jeux
+permalink: /games/
 lang: fr
 ---
 
@@ -10,18 +10,14 @@ lang: fr
 
 ### [Stellar Wrath](https://dualwielding.itch.io/stellar-wrath) 
 
-![Menu de Stellar Wrath](https://img.itch.zone/aW1hZ2UvMTgyNDY1Lzg1MzAwNi5wbmc=/original/kM3n9F.png)
-
-Le jeu vous propose d'incarner un astéroïde anonyme vouant une haine sans borne à son système solaire.
-
-![Capture d'écran](https://img.itch.zone/aW1hZ2UvMTgyNDY1Lzg1MzAwOC5wbmc=/original/j8rlIR.png)
+<iframe frameborder="0" src="https://itch.io/embed/182465?link_color=0484D1&border_color=000000" width="552" height="167"></iframe>
 
 ### [Despair](https://dualwielding.itch.io/despair)
 
-![Menu de Despair](https://img.itch.zone/aW1hZ2UvMTg3ODIxLzg3ODQzNS5wbmc=/original/phRS4p.png)
-
-Jeu narratif fait durant la Game Jam des Utopiales, avec le thème "procrastination". Tout est dans les textes, plus que dans le gameplay.
-
-Nous vous proposons d'endosser le rôle d'un capitaine de vaisseau chargé d'ammener ses passagers à bon port. Mais ce genre de voyage ne se passe jamais sans accroc...
+<iframe frameborder="0" src="https://itch.io/embed/187821?link_color=4f4f4f&amp;border_color=000000" width="552" height="167"></iframe>
 
 ![Capture d'écran](https://img.itch.zone/aW1hZ2UvMTg3ODIxLzg3ODQ0MS5wbmc=/original/WwPT8x.png)
+
+### [Tradimento](https://dualwielding.itch.io/tradimento)
+
+<iframe frameborder="0" src="https://itch.io/embed/184860?link_color=000000&border_color=000000" width="552" height="167"></iframe>
