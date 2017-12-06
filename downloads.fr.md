@@ -16,8 +16,6 @@ lang: fr
 
 <iframe frameborder="0" src="https://itch.io/embed/187821?link_color=4f4f4f&amp;border_color=000000" width="552" height="167"></iframe>
 
-![Capture d'écran](https://img.itch.zone/aW1hZ2UvMTg3ODIxLzg3ODQ0MS5wbmc=/original/WwPT8x.png)
-
 ### [Tradimento](https://dualwielding.itch.io/tradimento)
 
 <iframe frameborder="0" src="https://itch.io/embed/184860?link_color=000000&border_color=000000" width="552" height="167"></iframe>
